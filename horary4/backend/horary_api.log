@@ -1,0 +1,613 @@
+2025-06-04 13:23:12,758 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 13:23:12,758 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 13:23:12,758 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 13:23:12,758 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 13:23:12,758 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 13:23:12,758 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 13:23:12,808 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-04 13:23:12,808 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 13:23:12,816 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 13:23:14,445 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 13:23:14,445 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 13:23:14,445 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 13:23:14,445 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 13:23:14,445 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 13:23:14,445 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 13:23:14,445 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 13:23:14,445 - werkzeug - INFO -  * Debugger PIN: 559-025-286
+2025-06-04 14:38:24,799 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 14:38:24,804 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 14:38:24,804 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 14:38:24,804 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 14:38:24,804 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 14:38:24,804 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 14:38:24,815 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-04 14:38:24,815 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 14:38:24,815 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 14:38:26,416 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 14:38:26,416 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 14:38:26,416 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 14:38:26,416 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 14:38:26,416 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 14:38:26,416 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 14:38:26,432 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 14:38:26,432 - werkzeug - INFO -  * Debugger PIN: 559-025-286
+2025-06-04 14:48:51,323 - werkzeug - INFO -  * Detected change in 'd:\\Users\\sabaa\\anaconda3\\Scripts\\conda-script.py', reloading
+2025-06-04 14:48:51,662 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 14:48:53,282 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 14:48:53,282 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 14:48:53,282 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 14:48:53,282 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 14:48:53,282 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 14:48:53,282 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 14:48:53,291 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 14:48:53,291 - werkzeug - INFO -  * Debugger PIN: 559-025-286
+2025-06-04 15:27:06,059 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 15:27:06,059 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 15:27:06,059 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 15:27:06,059 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 15:27:06,059 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 15:27:06,059 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 15:27:06,070 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-04 15:27:06,070 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 15:27:06,070 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 15:27:07,635 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 15:27:07,635 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 15:27:07,635 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 15:27:07,635 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 15:27:07,635 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 15:27:07,635 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 15:27:07,651 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 15:27:07,651 - werkzeug - INFO -  * Debugger PIN: 559-025-286
+2025-06-04 15:34:31,523 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 15:34:31,524 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 15:34:31,524 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 15:34:31,524 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 15:34:31,525 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 15:34:31,525 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 15:34:31,618 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-04 15:34:31,619 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 15:34:31,692 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 15:34:33,294 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 15:34:33,294 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 15:34:33,294 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 15:34:33,294 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 15:34:33,295 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 15:34:33,295 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 15:34:33,302 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 15:34:33,304 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-04 15:34:35,907 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-04 15:34:35,908 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-04 15:34:35,908 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 15:34:35] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-04 15:34:35,970 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 15:34:37,043 - __main__ - INFO - health completed in 1.07s
+2025-06-04 15:34:37,044 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 15:34:37,044 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 15:34:37] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 15:48:27,330 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-04 15:48:27,330 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-04 15:48:27,330 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 15:48:27] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-04 15:48:27,332 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 15:48:29,431 - __main__ - INFO - health completed in 2.10s
+2025-06-04 15:48:29,431 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 15:48:29,431 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 15:48:29] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 15:48:35,586 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-04 15:48:35,586 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-04 15:48:35,587 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 15:48:35] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-04 15:48:35,588 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 15:48:36,537 - __main__ - INFO - health completed in 0.95s
+2025-06-04 15:48:36,537 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 15:48:36,537 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 15:48:36] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 15:48:36,539 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 15:48:37,516 - __main__ - INFO - health completed in 0.98s
+2025-06-04 15:48:37,516 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 15:48:37,516 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 15:48:37] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 15:59:05,225 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 15:59:05,226 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 15:59:05,226 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 15:59:05,226 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 15:59:05,226 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 15:59:05,226 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 15:59:05,237 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-04 15:59:05,237 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 15:59:05,242 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 15:59:06,821 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 15:59:06,821 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 15:59:06,822 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 15:59:06,822 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 15:59:06,822 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 15:59:06,822 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 15:59:06,828 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 15:59:06,830 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-04 16:00:07,375 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-04 16:00:07,375 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-04 16:00:07,376 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:00:07] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-04 16:00:07,379 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 16:00:08,497 - __main__ - INFO - health completed in 1.12s
+2025-06-04 16:00:08,497 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 16:00:08,498 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:00:08] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 16:00:08,500 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 16:00:09,737 - __main__ - INFO - health completed in 1.24s
+2025-06-04 16:00:09,738 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 16:00:09,738 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:00:09] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 16:27:56,869 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\OneDrive\\Desktop\\horary4\\backend\\horary_engine.py', reloading
+2025-06-04 16:27:57,496 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 16:27:59,155 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 16:27:59,155 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 16:27:59,155 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 16:27:59,155 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 16:27:59,155 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 16:27:59,156 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 16:27:59,162 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 16:27:59,164 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-04 16:41:24,386 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\OneDrive\\Desktop\\horary4\\backend\\horary_engine(1).py', reloading
+2025-06-04 16:41:24,387 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\OneDrive\\Desktop\\horary4\\backend\\horary_engine(1).py', reloading
+2025-06-04 16:41:24,951 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 16:41:26,535 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 16:41:26,535 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 16:41:26,535 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 16:41:26,536 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 16:41:26,536 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 16:41:26,536 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 16:41:26,543 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 16:41:26,545 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-04 16:41:38,253 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\OneDrive\\Desktop\\horary4\\backend\\horary_engine(1).py', reloading
+2025-06-04 16:41:38,254 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\OneDrive\\Desktop\\horary4\\backend\\horary_engine (2).py', reloading
+2025-06-04 16:41:38,751 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 16:41:40,329 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 16:41:40,329 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 16:41:40,329 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 16:41:40,329 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 16:41:40,330 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 16:41:40,330 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 16:41:40,336 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 16:41:40,338 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-04 16:43:10,767 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 16:43:10,767 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 16:43:10,768 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 16:43:10,768 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 16:43:10,768 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 16:43:10,768 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 16:43:10,782 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-04 16:43:10,782 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 16:43:10,788 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 16:43:12,402 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 16:43:12,402 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 16:43:12,403 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 16:43:12,403 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 16:43:12,403 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 16:43:12,403 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 16:43:12,409 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 16:43:12,411 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-04 16:43:53,895 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-04 16:43:53,895 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-04 16:43:53,897 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:43:53] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-04 16:43:53,899 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 16:43:54,886 - __main__ - INFO - health completed in 0.99s
+2025-06-04 16:43:54,887 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 16:43:54,887 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:43:54] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 16:43:54,897 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 16:43:54,897 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 16:43:56,492 - __main__ - INFO - health completed in 1.59s
+2025-06-04 16:43:56,493 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 16:43:56,493 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:43:56] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 16:43:56,496 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 16:43:57,456 - __main__ - INFO - health completed in 2.56s
+2025-06-04 16:43:57,457 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 16:43:57,458 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:43:57] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 16:43:58,390 - __main__ - INFO - health completed in 1.89s
+2025-06-04 16:43:58,390 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 16:43:58,391 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:43:58] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 16:56:38,256 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 16:56:38,257 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 16:56:38,257 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 16:56:38,257 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 16:56:38,257 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 16:56:38,257 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 16:56:38,271 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-04 16:56:38,271 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 16:56:38,276 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 16:56:39,897 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 16:56:39,897 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 16:56:39,898 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 16:56:39,898 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 16:56:39,898 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 16:56:39,898 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 16:56:39,906 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 16:56:39,908 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-04 16:56:47,199 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-04 16:56:47,200 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-04 16:56:47,200 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:56:47] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-04 16:56:47,230 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 16:56:48,299 - __main__ - INFO - health completed in 1.07s
+2025-06-04 16:56:48,300 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 16:56:48,300 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:56:48] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 16:56:48,302 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 16:56:49,334 - __main__ - INFO - health completed in 1.03s
+2025-06-04 16:56:49,336 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 16:56:49,336 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:56:49] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 16:57:12,069 - __main__ - INFO - OPTIONS /api/calculate-chart - 127.0.0.1
+2025-06-04 16:57:12,070 - __main__ - INFO - Response: 200 - OPTIONS /api/calculate-chart
+2025-06-04 16:57:12,071 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:57:12] "OPTIONS /api/calculate-chart HTTP/1.1" 200 -
+2025-06-04 16:57:12,074 - __main__ - INFO - POST /api/calculate-chart - 127.0.0.1
+2025-06-04 16:57:12,074 - __main__ - INFO - ENHANCED chart calculation request:
+2025-06-04 16:57:12,074 - __main__ - INFO -   Question: will i win  the lottery?
+2025-06-04 16:57:12,075 - __main__ - INFO -   Location: israel
+2025-06-04 16:57:12,075 - __main__ - INFO -   Date: None
+2025-06-04 16:57:12,075 - __main__ - INFO -   Time: None
+2025-06-04 16:57:12,075 - __main__ - INFO -   Timezone: None
+2025-06-04 16:57:12,075 - __main__ - INFO -   Use current time: True
+2025-06-04 16:57:12,733 - horary_engine - INFO - Calculating chart for:
+2025-06-04 16:57:12,734 - horary_engine - INFO -   Local time: 2025-06-04 16:57:12.733015+03:00 (Asia/Jerusalem)
+2025-06-04 16:57:12,734 - horary_engine - INFO -   UTC time: 2025-06-04 13:57:12.733015+00:00
+2025-06-04 16:57:12,734 - horary_engine - INFO -   Julian Day (UT): 2460831.081388889
+2025-06-04 16:57:12,753 - werkzeug - INFO -  * Detected change in 'd:\\Users\\sabaa\\anaconda3\\Lib\\logging\\__init__.py', reloading
+2025-06-04 16:57:12,853 - __main__ - INFO - ENHANCED chart calculation completed in 0.78 seconds
+2025-06-04 16:57:12,854 - werkzeug - INFO -  * Detected change in 'd:\\Users\\sabaa\\anaconda3\\Lib\\encodings\\cp1252.py', reloading
+2025-06-04 16:57:12,854 - __main__ - INFO - ENHANCED chart calculation successful - Judgment: YES (Confidence: 80%)
+2025-06-04 16:57:12,854 - werkzeug - INFO -  * Detected change in 'd:\\Users\\sabaa\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2025-06-04 16:57:12,855 - __main__ - INFO - Enhanced solar factors: Combusted: Mercury; Under Beams: Jupiter
+2025-06-04 16:57:12,855 - werkzeug - INFO -  * Detected change in 'd:\\Users\\sabaa\\anaconda3\\Lib\\site-packages\\werkzeug\\debug\\__init__.py', reloading
+2025-06-04 16:57:12,855 - __main__ - INFO - Combusted planets detected: 1
+2025-06-04 16:57:12,855 - werkzeug - INFO -  * Detected change in 'd:\\Users\\sabaa\\anaconda3\\Lib\\site-packages\\werkzeug\\serving.py', reloading
+2025-06-04 16:57:12,856 - __main__ - INFO - calculate_chart completed in 0.78s
+2025-06-04 16:57:12,857 - werkzeug - INFO -  * Detected change in 'd:\\Users\\sabaa\\anaconda3\\Lib\\http\\server.py', reloading
+2025-06-04 16:57:12,857 - __main__ - INFO - Response: 200 - POST /api/calculate-chart
+2025-06-04 16:57:12,857 - werkzeug - INFO -  * Detected change in 'd:\\Users\\sabaa\\anaconda3\\Lib\\socketserver.py', reloading
+2025-06-04 16:57:12,857 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 16:57:12] "POST /api/calculate-chart HTTP/1.1" 200 -
+2025-06-04 16:57:12,857 - werkzeug - INFO -  * Detected change in 'd:\\Users\\sabaa\\anaconda3\\Lib\\threading.py', reloading
+2025-06-04 16:57:13,127 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 16:57:14,727 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 16:57:14,728 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 16:57:14,728 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 16:57:14,728 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 16:57:14,729 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 16:57:14,729 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 16:57:14,735 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 16:57:14,737 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-04 19:07:57,955 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 19:07:57,956 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 19:07:57,956 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 19:07:57,956 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 19:07:57,957 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 19:07:57,957 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 19:07:57,969 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-04 19:07:57,970 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 19:07:57,974 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 19:07:59,576 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 19:07:59,577 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 19:07:59,577 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 19:07:59,577 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 19:07:59,577 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 19:07:59,577 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 19:07:59,727 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 19:07:59,729 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-04 19:08:03,245 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-04 19:08:03,245 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-04 19:08:03,245 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 19:08:03] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-04 19:08:03,249 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 19:08:04,301 - __main__ - INFO - health completed in 1.05s
+2025-06-04 19:08:04,301 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 19:08:04,301 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 19:08:04] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 19:11:42,674 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-04 19:11:42,674 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-04 19:11:42,674 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 19:11:42] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-04 19:11:42,678 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 19:11:43,663 - __main__ - INFO - health completed in 0.98s
+2025-06-04 19:11:43,663 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 19:11:43,663 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 19:11:43] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 19:11:43,669 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 19:11:44,729 - __main__ - INFO - health completed in 1.06s
+2025-06-04 19:11:44,729 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 19:11:44,729 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 19:11:44] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 19:35:22,086 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 19:35:22,087 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 19:35:22,087 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 19:35:22,087 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 19:35:22,087 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 19:35:22,087 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 19:35:22,135 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-04 19:35:22,135 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 19:35:22,137 - werkzeug - INFO -  * Restarting with stat
+2025-06-04 19:35:23,063 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 19:35:23,064 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 19:35:23,064 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 19:35:23,064 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 19:35:23,064 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 19:35:23,064 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 19:35:23,073 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 19:35:23,076 - werkzeug - INFO -  * Debugger PIN: 834-935-589
+2025-06-04 19:36:19,675 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-04 19:36:19,676 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-04 19:36:19,676 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 19:36:19] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-04 19:36:19,678 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 19:36:20,604 - __main__ - INFO - health completed in 0.93s
+2025-06-04 19:36:20,605 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 19:36:20,605 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 19:36:20] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 19:36:20,607 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 19:36:21,590 - __main__ - INFO - health completed in 0.98s
+2025-06-04 19:36:21,590 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 19:36:21,591 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 19:36:21] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 20:01:19,270 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 20:01:19,271 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 20:01:19,271 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 20:01:19,271 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 20:01:19,271 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 20:01:19,271 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 20:01:19,283 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-04 20:01:19,283 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-04 20:01:19,288 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-04 20:01:20,853 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-04 20:01:20,853 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-04 20:01:20,853 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-04 20:01:20,853 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-04 20:01:20,853 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-04 20:01:20,853 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-04 20:01:20,860 - werkzeug - WARNING -  * Debugger is active!
+2025-06-04 20:01:20,862 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-04 20:01:59,551 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-04 20:01:59,551 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-04 20:01:59,552 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 20:01:59] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-04 20:01:59,554 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 20:02:01,803 - __main__ - INFO - health completed in 2.25s
+2025-06-04 20:02:01,803 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 20:02:01,804 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 20:02:01] "GET /api/health HTTP/1.1" 200 -
+2025-06-04 20:02:01,806 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-04 20:02:02,834 - __main__ - INFO - health completed in 1.03s
+2025-06-04 20:02:02,834 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-04 20:02:02,834 - werkzeug - INFO - 127.0.0.1 - - [04/Jun/2025 20:02:02] "GET /api/health HTTP/1.1" 200 -
+2025-06-05 00:14:19,548 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 00:14:19,549 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 00:14:19,550 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 00:14:19,550 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 00:14:19,550 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 00:14:19,550 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 00:14:19,621 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-05 00:14:19,621 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-05 00:14:19,702 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-05 00:14:21,293 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 00:14:21,293 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 00:14:21,293 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 00:14:21,294 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 00:14:21,294 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 00:14:21,294 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 00:14:21,300 - werkzeug - WARNING -  * Debugger is active!
+2025-06-05 00:14:21,302 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-05 00:14:26,495 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-05 00:14:26,496 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-05 00:14:26,497 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 00:14:26] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-05 00:14:26,507 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-05 00:14:27,480 - __main__ - INFO - health completed in 0.97s
+2025-06-05 00:14:27,480 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-05 00:14:27,481 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 00:14:27] "GET /api/health HTTP/1.1" 200 -
+2025-06-05 00:14:44,567 - __main__ - INFO - OPTIONS /api/calculate-chart - 127.0.0.1
+2025-06-05 00:14:44,567 - __main__ - INFO - Response: 200 - OPTIONS /api/calculate-chart
+2025-06-05 00:14:44,568 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 00:14:44] "OPTIONS /api/calculate-chart HTTP/1.1" 200 -
+2025-06-05 00:14:44,570 - __main__ - INFO - POST /api/calculate-chart - 127.0.0.1
+2025-06-05 00:14:44,570 - __main__ - INFO - ENHANCED chart calculation request:
+2025-06-05 00:14:44,570 - __main__ - INFO -   Question: will war start?
+2025-06-05 00:14:44,570 - __main__ - INFO -   Location: israel?
+2025-06-05 00:14:44,571 - __main__ - INFO -   Date: None
+2025-06-05 00:14:44,571 - __main__ - INFO -   Time: None
+2025-06-05 00:14:44,571 - __main__ - INFO -   Timezone: None
+2025-06-05 00:14:44,571 - __main__ - INFO -   Use current time: True
+2025-06-05 00:14:45,246 - horary_engine - INFO - Calculating chart for:
+2025-06-05 00:14:45,246 - horary_engine - INFO -   Local time: 2025-06-05 00:14:45.246898+03:00 (Asia/Jerusalem)
+2025-06-05 00:14:45,247 - horary_engine - INFO -   UTC time: 2025-06-04 21:14:45.246898+00:00
+2025-06-05 00:14:45,247 - horary_engine - INFO -   Julian Day (UT): 2460831.3852430554
+2025-06-05 00:14:45,264 - werkzeug - INFO -  * Detected change in 'd:\\Users\\sabaa\\anaconda3\\Lib\\logging\\__init__.py', reloading
+2025-06-05 00:14:45,355 - __main__ - INFO - ENHANCED chart calculation completed in 0.78 seconds
+2025-06-05 00:14:45,355 - __main__ - INFO - ENHANCED chart calculation successful - Judgment: NOT RADICAL (Confidence: 0%)
+2025-06-05 00:14:45,356 - __main__ - INFO - calculate_chart completed in 0.79s
+2025-06-05 00:14:45,356 - __main__ - INFO - Response: 200 - POST /api/calculate-chart
+2025-06-05 00:14:45,357 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 00:14:45] "POST /api/calculate-chart HTTP/1.1" 200 -
+2025-06-05 00:14:45,554 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-05 00:14:47,164 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 00:14:47,164 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 00:14:47,164 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 00:14:47,164 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 00:14:47,165 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 00:14:47,165 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 00:14:47,171 - werkzeug - WARNING -  * Debugger is active!
+2025-06-05 00:14:47,173 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-05 00:18:36,939 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-05 00:18:36,940 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-05 00:18:36,940 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 00:18:36] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-05 00:18:36,943 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-05 00:18:39,824 - __main__ - INFO - health completed in 2.88s
+2025-06-05 00:18:39,825 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-05 00:18:39,825 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 00:18:39] "GET /api/health HTTP/1.1" 200 -
+2025-06-05 00:18:39,828 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-05 00:18:40,856 - __main__ - INFO - health completed in 1.03s
+2025-06-05 00:18:40,856 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-05 00:18:40,856 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 00:18:40] "GET /api/health HTTP/1.1" 200 -
+2025-06-05 09:26:47,451 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 09:26:47,451 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 09:26:47,452 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 09:26:47,452 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 09:26:47,452 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 09:26:47,452 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 09:26:47,525 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-05 09:26:47,525 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-05 09:26:47,599 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-05 09:26:49,231 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 09:26:49,231 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 09:26:49,232 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 09:26:49,232 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 09:26:49,232 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 09:26:49,232 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 09:26:49,238 - werkzeug - WARNING -  * Debugger is active!
+2025-06-05 09:26:49,241 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-05 09:26:51,127 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-05 09:26:51,127 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-05 09:26:51,127 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 09:26:51] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-05 09:26:51,145 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-05 09:26:52,294 - __main__ - INFO - health completed in 1.15s
+2025-06-05 09:26:52,295 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-05 09:26:52,295 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 09:26:52] "GET /api/health HTTP/1.1" 200 -
+2025-06-05 09:42:58,058 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 09:42:58,059 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 09:42:58,059 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 09:42:58,059 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 09:42:58,059 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 09:42:58,060 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 09:42:58,073 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-05 09:42:58,073 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-05 09:42:58,078 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-05 09:42:59,642 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 09:42:59,642 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 09:42:59,642 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 09:42:59,643 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 09:42:59,643 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 09:42:59,643 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 09:42:59,649 - werkzeug - WARNING -  * Debugger is active!
+2025-06-05 09:42:59,651 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-05 09:43:43,152 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-05 09:43:43,153 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-05 09:43:43,153 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 09:43:43] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-05 09:43:43,155 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-05 09:43:45,212 - __main__ - INFO - health completed in 2.06s
+2025-06-05 09:43:45,213 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-05 09:43:45,213 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 09:43:45] "GET /api/health HTTP/1.1" 200 -
+2025-06-05 09:43:45,216 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-05 09:43:45,221 - __main__ - INFO - OPTIONS /api/license/status - 127.0.0.1
+2025-06-05 09:43:45,222 - __main__ - INFO - Response: 404 - OPTIONS /api/license/status
+2025-06-05 09:43:45,223 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 09:43:45] "[33mOPTIONS /api/license/status HTTP/1.1[0m" 404 -
+2025-06-05 09:43:46,244 - __main__ - INFO - health completed in 1.03s
+2025-06-05 09:43:46,244 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-05 09:43:46,245 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 09:43:46] "GET /api/health HTTP/1.1" 200 -
+2025-06-05 10:56:05,103 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 10:56:05,104 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 10:56:05,104 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 10:56:05,104 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 10:56:05,104 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 10:56:05,104 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 10:56:05,115 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-05 10:56:05,115 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-05 10:56:05,120 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-05 10:56:06,686 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 10:56:06,686 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 10:56:06,686 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 10:56:06,687 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 10:56:06,687 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 10:56:06,687 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 10:56:06,693 - werkzeug - WARNING -  * Debugger is active!
+2025-06-05 10:56:06,695 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-05 11:02:57,683 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 11:02:57,683 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 11:02:57,683 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 11:02:57,683 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 11:02:57,683 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 11:02:57,683 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 11:02:57,694 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-05 11:02:57,695 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-05 11:02:57,699 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-05 11:02:59,370 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 11:02:59,370 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 11:02:59,370 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 11:02:59,371 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 11:02:59,371 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 11:02:59,371 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 11:02:59,377 - werkzeug - WARNING -  * Debugger is active!
+2025-06-05 11:02:59,379 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-05 11:40:05,858 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 11:40:05,859 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 11:40:05,859 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 11:40:05,859 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 11:40:05,859 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 11:40:05,860 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 11:40:05,872 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-05 11:40:05,872 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-05 11:40:05,877 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-05 11:40:07,463 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 11:40:07,463 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 11:40:07,463 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 11:40:07,463 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 11:40:07,463 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 11:40:07,463 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 11:40:07,469 - werkzeug - WARNING -  * Debugger is active!
+2025-06-05 11:40:07,472 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-05 11:40:35,677 - __main__ - INFO - GET / - 10.0.0.4
+2025-06-05 11:40:35,677 - __main__ - INFO - Response: 404 - GET /
+2025-06-05 11:40:35,678 - werkzeug - INFO - 10.0.0.4 - - [05/Jun/2025 11:40:35] "[33mGET / HTTP/1.1[0m" 404 -
+2025-06-05 11:40:35,721 - werkzeug - ERROR - 10.0.0.4 - - [05/Jun/2025 11:40:35] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x07O\x01\x00\x07K\x03\x03#_ý')
+2025-06-05 11:40:35,721 - werkzeug - INFO - 10.0.0.4 - - [05/Jun/2025 11:40:35] "[31m[1m\x16\x03\x01\x07O\x01\x00\x07K\x03\x03#_ý\x1e\x84¬P[0m" 400 -
+2025-06-05 11:40:35,722 - werkzeug - ERROR - 10.0.0.4 - - [05/Jun/2025 11:40:35] code 400, message Bad request version ('\x16ù¯£<]\x8aÛ"{4\x7fO/Z/¥q\x9b¤\x8aYB\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À')
+2025-06-05 11:40:35,722 - werkzeug - INFO - 10.0.0.4 - - [05/Jun/2025 11:40:35] "[31m[1m\x16\x03\x01\x02~\x01\x00\x02z\x03\x03iO#£è\x00^ýò\x09ã¶ô\x99!-QGY¹KÐà+ÕvÌ*\x09æÏé Ã\x125ØÀÀ\x1e\x1b\x0d\x16ù¯£<]\x8aÛ"{4\x7fO/Z/¥q\x9b¤\x8aYB\x00"\x13\x01\x13\x03\x13\x02À+À/Ì©Ì¨À,À0À[0m" 400 -
+2025-06-05 11:41:31,666 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 11:41:31,666 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 11:41:31,666 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 11:41:31,666 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 11:41:31,666 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 11:41:31,666 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 11:41:31,680 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-06-05 11:41:31,680 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-05 11:41:31,684 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-06-05 11:41:33,254 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-06-05 11:41:33,255 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-06-05 11:41:33,256 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-06-05 11:41:33,256 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-06-05 11:41:33,256 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-06-05 11:41:33,256 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-06-05 11:41:33,262 - werkzeug - WARNING -  * Debugger is active!
+2025-06-05 11:41:33,264 - werkzeug - INFO -  * Debugger PIN: 109-175-116
+2025-06-05 11:51:43,577 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-06-05 11:51:43,578 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-06-05 11:51:43,579 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 11:51:43] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-06-05 11:51:43,584 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-06-05 11:51:44,605 - __main__ - INFO - health completed in 1.02s
+2025-06-05 11:51:44,605 - __main__ - INFO - Response: 200 - GET /api/health
+2025-06-05 11:51:44,605 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 11:51:44] "GET /api/health HTTP/1.1" 200 -
+2025-06-05 11:51:44,621 - __main__ - INFO - OPTIONS /api/license/status - 127.0.0.1
+2025-06-05 11:51:44,621 - __main__ - INFO - Response: 404 - OPTIONS /api/license/status
+2025-06-05 11:51:44,621 - werkzeug - INFO - 127.0.0.1 - - [05/Jun/2025 11:51:44] "[33mOPTIONS /api/license/status HTTP/1.1[0m" 404 -

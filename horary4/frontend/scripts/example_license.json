@@ -1,0 +1,20 @@
+{
+  "licensedTo": "Professional Astrologer",
+  "email": "astrologer@example.com",
+  "issueDate": "2025-06-04T10:00:00Z",
+  "expiryDate": "2026-06-04T10:00:00Z",
+  "features": [
+    "enhanced_engine",
+    "solar_conditions",
+    "moon_analysis",
+    "timezone_support",
+    "future_retrograde",
+    "directional_motion",
+    "reception_weighting",
+    "override_flags",
+    "premium_support"
+  ],
+  "licenseType": "commercial",
+  "version": "1.0",
+  "signature": "MEUCIQDKvKhKpN+DH4j1w0234Ob8yX9J2K3L4M5N6P7Q8R9S0T1U2V3QIVY6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D"
+}

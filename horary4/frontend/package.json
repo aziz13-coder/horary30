@@ -1,0 +1,203 @@
+{
+  "name": "horary-master-desktop",
+  "private": true,
+  "version": "1.1.0",
+  "main": "main/main.js",
+  "homepage": "./",
+  "description": "Enhanced Traditional Horary Astrology Desktop Application",
+  "scripts": {
+    "dev": "vite --mode development",
+    "dev:backend": "cd ../backend && python app.py",
+    "electron:dev": "cross-env NODE_ENV=development ELECTRON=true node scripts/electron-dev.js",
+    "electron:dev:manual": "cross-env NODE_ENV=development ELECTRON=true concurrently \"npm run dev:backend\" \"npm run dev -- --mode electron\" \"wait-on http://localhost:3000 http://localhost:5000 && electron .\"",
+    "electron:dev:simple": "cross-env NODE_ENV=development ELECTRON=true electron .",
+    "electron:pack": "npm run build && electron-builder",
+    "electron:dist": "npm run build && electron-builder --publish=never",
+    "build": "cross-env ELECTRON=true vite build --mode electron",
+    "build:web": "vite build",
+    "build:backend": "cd ../backend && python -m PyInstaller --onefile --distpath dist app.py",
+    "build:full": "npm run build:backend && npm run build && npm run electron:dist",
+    "test:license": "python ../backend/license_generator.py",
+    "test:electron": "cross-env NODE_ENV=development ELECTRON=true DEBUG=* electron .",
+    "clean": "rimraf dist dist-electron node_modules/.vite",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "lint:fix": "eslint . --ext js,jsx --fix",
+    "preview": "vite preview",
+    "preview:electron": "cross-env ELECTRON=true vite preview",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.14",
+    "concurrently": "^8.2.0",
+    "cross-env": "^7.0.3",
+    "electron": "^25.3.1",
+    "electron-builder": "^24.6.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "postcss": "^8.4.27",
+    "rimraf": "^5.0.1",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5",
+    "wait-on": "^7.0.1"
+  },
+  "build": {
+    "appId": "com.horarymaster.desktop",
+    "productName": "Enhanced Horary Master",
+    "copyright": "Copyright © 2024 Horary Master",
+    "directories": {
+      "output": "dist-electron",
+      "buildResources": "assets"
+    },
+    "files": [
+      "dist/**/*",
+      "main/**/*",
+      "package.json"
+    ],
+    "extraResources": [
+      {
+        "from": "../backend/dist/",
+        "to": "backend/",
+        "filter": ["**/*"]
+      },
+      {
+        "from": "../backend/public_key.pem",
+        "to": "public_key.pem"
+      }
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        },
+        {
+          "target": "portable",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "assets/icon.ico",
+      "artifactName": "${productName}-${version}-${os}-${arch}.${ext}",
+      "requestedExecutionLevel": "asInvoker",
+      "verifyUpdateCodeSignature": false
+    },
+    "mac": {
+      "target": [
+        {
+          "target": "dmg",
+          "arch": ["x64", "arm64"]
+        },
+        {
+          "target": "zip",
+          "arch": ["x64", "arm64"]
+        }
+      ],
+      "icon": "assets/icon.icns",
+      "category": "public.app-category.education",
+      "artifactName": "${productName}-${version}-${os}-${arch}.${ext}",
+      "hardenedRuntime": true,
+      "gatekeeperAssess": false,
+      "entitlements": "assets/entitlements.mac.plist",
+      "entitlementsInherit": "assets/entitlements.mac.plist"
+    },
+    "linux": {
+      "target": [
+        {
+          "target": "AppImage",
+          "arch": ["x64"]
+        },
+        {
+          "target": "deb",
+          "arch": ["x64"]
+        },
+        {
+          "target": "rpm",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "assets/icon.png",
+      "category": "Education",
+      "artifactName": "${productName}-${version}-${os}-${arch}.${ext}",
+      "desktop": {
+        "Name": "Enhanced Horary Master",
+        "Comment": "Traditional Horary Astrology Application",
+        "Keywords": "astrology;horary;divination;traditional;"
+      }
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Enhanced Horary Master",
+      "runAfterFinish": true,
+      "installerIcon": "assets/icon.ico",
+      "uninstallerIcon": "assets/icon.ico",
+      "installerHeaderIcon": "assets/icon.ico",
+      "deleteAppDataOnUninstall": false,
+      "license": "assets/license.txt"
+    },
+    "dmg": {
+      "title": "Enhanced Horary Master ${version}",
+      "icon": "assets/icon.icns",
+      "iconSize": 100,
+      "contents": [
+        {
+          "x": 130,
+          "y": 220
+        },
+        {
+          "x": 410,
+          "y": 220,
+          "type": "link",
+          "path": "/Applications"
+        }
+      ],
+      "window": {
+        "width": 540,
+        "height": 380
+      }
+    },
+    "publish": {
+      "provider": "github",
+      "owner": "horarymaster",
+      "repo": "enhanced-horary-master"
+    },
+    "afterSign": "scripts/notarize.js",
+    "afterPack": "scripts/afterPack.js"
+  },
+  "author": {
+    "name": "Horary Master Team",
+    "email": "support@horarymaster.com",
+    "url": "https://horarymaster.com"
+  },
+  "license": "Commercial",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/horarymaster/enhanced-horary-master.git"
+  },
+  "bugs": {
+    "url": "https://github.com/horarymaster/enhanced-horary-master/issues"
+  },
+  "keywords": [
+    "astrology",
+    "horary",
+    "traditional",
+    "divination",
+    "electron",
+    "desktop"
+  ],
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
