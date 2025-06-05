@@ -40,9 +40,23 @@ async function startBackend() {
 
   try {
     // In production, backend is bundled in resources/backend/
-    const backendPath = path.join(process.resourcesPath, 'backend');
+    let backendPath = path.join(process.resourcesPath, 'backend');
     const backendExecutable = process.platform === 'win32' ? 'app.exe' : 'app';
-    const backendBinary = path.join(backendPath, backendExecutable);
+    let backendBinary = path.join(backendPath, backendExecutable);
+
+    // Fallback path for development/portable setups
+    const fallbackPath =
+      process.platform === 'win32'
+        ? 'C:\\Users\\sabaa\\OneDrive\\Desktop\\horary4\\backend'
+        : null;
+
+    if (!fs.existsSync(backendBinary) && fallbackPath) {
+      const altBinary = path.join(fallbackPath, backendExecutable);
+      if (fs.existsSync(altBinary)) {
+        backendPath = fallbackPath;
+        backendBinary = altBinary;
+      }
+    }
 
     if (!fs.existsSync(backendBinary)) {
       console.error('Backend binary not found:', backendBinary);
