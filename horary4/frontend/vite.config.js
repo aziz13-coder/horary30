@@ -3,21 +3,17 @@ import react from '@vitejs/plugin-react'
 import { resolve } from 'path'
 
 // https://vitejs.dev/config/
-export default defineConfig(({ command, mode }) => {
-  const isElectron = process.env.ELECTRON === 'true' || mode === 'electron';
+export default defineConfig(({ command }) => {
   const isDev = command === 'serve';
-  
-  console.log('Vite config:', { isElectron, isDev, mode, command });
   
   return {
     plugins: [react()],
     
-    // Use relative paths for Electron compatibility
-    base: isElectron ? './' : '/',
+    base: '/',
     
     server: {
       port: 3000,
-      open: !isElectron, // Don't auto-open browser in Electron mode
+      open: true,
       cors: true,
       strictPort: true,
       host: 'localhost', // Changed from 0.0.0.0 to localhost for security
@@ -35,15 +31,15 @@ export default defineConfig(({ command, mode }) => {
         
         output: {
           // Optimize chunk splitting
-          manualChunks: !isElectron ? {
-            'vendor': ['react', 'react-dom'],
-            'icons': ['lucide-react']
-          } : undefined
+          manualChunks: {
+            vendor: ['react', 'react-dom'],
+            icons: ['lucide-react']
+          }
         }
       },
       
       // Target modern environments
-      target: isElectron ? 'esnext' : 'es2015',
+      target: 'es2015',
       
       assetsDir: 'assets',
       chunkSizeWarningLimit: 1000,
@@ -53,9 +49,7 @@ export default defineConfig(({ command, mode }) => {
     define: {
       global: 'globalThis',
       __APP_VERSION__: JSON.stringify(process.env.npm_package_version || '1.1.0'),
-      __IS_ELECTRON__: JSON.stringify(isElectron),
-      __IS_DEV__: JSON.stringify(isDev),
-      'process.env.ELECTRON': JSON.stringify(process.env.ELECTRON || 'false'),
+      __IS_DEV__: JSON.stringify(isDev)
     },
     
     resolve: {
@@ -86,21 +80,6 @@ export default defineConfig(({ command, mode }) => {
       host: 'localhost'
     },
     
-    // Electron-specific handling
-    ...(isElectron && {
-      // Additional optimizations for Electron
-      build: {
-        target: 'esnext',
-        minify: false, // Easier debugging in Electron
-        sourcemap: true,
-        rollupOptions: {
-          output: {
-            // Single chunk for Electron for easier loading
-            manualChunks: undefined,
-            inlineDynamicImports: true
-          }
-        }
-      }
-    })
+    
   }
 })
